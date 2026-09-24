@@ -155,4 +155,3 @@ The skill deliberately does not claim that code parses merely because it looks c
     ├── language-model.md
     └── runtime-and-storage.md
 ```
-
