@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skript Development"
+  short_description: "Build reliable, version-aware Minecraft Skript"
+  default_prompt: "Use $skript-development to write or review production-quality Skript for my server environment."
